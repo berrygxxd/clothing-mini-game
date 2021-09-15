@@ -1,6 +1,6 @@
 # clothing-mini-game
 ![onlineshopping](https://user-images.githubusercontent.com/88806842/133414040-6626bd1d-c6e8-48b2-9651-4d04f7566b0b.png)
-##### 간단한 쇼핑몰 미니게임입니다. [PLAY](https://berrygood.github.io/clothing-mini-game)
+##### 간단한 쇼핑몰 미니게임입니다. [PLAY](https://berrygood.github.io/clothing-mini-game/)
 ## 기술 스택
 * HTML
 * CSS
